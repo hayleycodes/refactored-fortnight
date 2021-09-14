@@ -1,4 +1,3 @@
-import { peopleData } from '../fixtures/people.js';
 import fetch from 'node-fetch';
 import dotenv from 'dotenv';
 
